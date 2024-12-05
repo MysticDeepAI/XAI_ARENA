@@ -1,0 +1,6 @@
+# Ignorar todo el contenido de las subcarpetas dentro de Dataset
+Dataset/*/*
+!Dataset/*/.gitkeep
+
+# Ignorar completamente la carpeta general_info
+general_info/
